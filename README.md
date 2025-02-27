@@ -22,7 +22,7 @@ cd stock-market-prediction
 ### Install dependencies:
 pip install -r requirements.txt
 ### Run the Streamlit app:
-streamlit run app.py
+streamlit run new.py
 
 ## Future Enhancements
 * Deep Learning Integration (LSTMs for advanced time-series prediction)
