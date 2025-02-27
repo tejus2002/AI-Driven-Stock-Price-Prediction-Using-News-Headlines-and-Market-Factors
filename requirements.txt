@@ -1,0 +1,11 @@
+torch
+streamlit
+pandas
+numpy
+yfinance
+transformers
+matplotlib
+scikit-learn
+xgboost
+vaderSentiment
+plotly
