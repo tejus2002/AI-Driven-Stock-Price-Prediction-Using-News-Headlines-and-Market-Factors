@@ -18,9 +18,9 @@ Plotly & Matplotlib (for data visualization)
 ## How to Run
 ### Clone the repository:
 https://github.com/tejus2002/AI-Driven-Stock-Price-Prediction-Using-News-Headlines-and-Market-Factors.git<br/>
-cd stock-market-prediction\
+cd stock-market-prediction
 ### Install dependencies:
-pip install -r requirements.txt\
+pip install -r requirements.txt
 ### Run the Streamlit app:
 streamlit run app.py
 
